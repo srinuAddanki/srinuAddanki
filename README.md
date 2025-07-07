@@ -11,8 +11,8 @@ AKA - <a href="https://github.com/srinuAddanki"> @srinuAddanki</a>
 </h1>
   
 - 🌱 I'm well-versed in Java full stack Development
-- 🎯 My primary focus is on learning new Tools and Technologies that would help me get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/FAANG-3.gif" position="absolute" height="60px" style="vertical-align:middle; inline-block;"/>
-- 🧑🏻‍🎓 I’m currently pursuing my Bachelor's degree in **Computer Science at Ideal Institute of Technology.**
+- 🎯 My primary focus is on learning new Tools and Technologies that would help me get into a java full stack developer job.
+- 🧑🏻‍🎓 I completed my Bachelor's degree in **Computer Science at Ideal Institute of Technology.**
 
 [![Repos Badge](https://badges.pufler.dev/repos/srinuAddanki)](https://github.com/srinuAddanki?tab=repositories) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/srinuAddanki)
@@ -27,8 +27,8 @@ AKA - <a href="https://github.com/srinuAddanki"> @srinuAddanki</a>
 
 ## Technical Skills
 - 📝 **Languages**: Java, Python, C++,
-- 🌐 **Web Development**: HTML, CSS, Node.js,
-- 📚 **Databases**: MySQL, MongoDB
+- 🌐 **Web Development**: HTML, CSS,PhP,JavaScript,
+- 📚 **Databases**: MySQL.
 
 ### :zap: GitHub Trophies 🏆
 
